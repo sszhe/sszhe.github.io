@@ -6,10 +6,28 @@
     <description>Recent content in test on blog for sszhe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Aug 2017 15:43:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 09:11:04 +0800</lastBuildDate>
     
 	<atom:link href="https://sszhe.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二次测试</title>
+      <link>https://sszhe.github.io/post/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 29 Nov 2019 09:11:04 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/post/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>纸箱外观设计</title>
+      <link>https://sszhe.github.io/post/%E8%AE%BE%E8%AE%A1%E5%9B%BE/</link>
+      <pubDate>Thu, 28 Nov 2019 15:43:48 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/post/%E8%AE%BE%E8%AE%A1%E5%9B%BE/</guid>
+      <description>这个月学习了设计纸箱外图，基本可以单独完成一个作品。</description>
+    </item>
     
     <item>
       <title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title>

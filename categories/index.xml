@@ -6,10 +6,46 @@
     <description>Recent content in Categories on blog for sszhe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 09:11:04 +0800</lastBuildDate>
     
 	<atom:link href="https://sszhe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>English</title>
+      <link>https://sszhe.github.io/categories/english/</link>
+      <pubDate>Fri, 29 Nov 2019 09:11:04 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://sszhe.github.io/categories/index/</link>
+      <pubDate>Fri, 29 Nov 2019 09:11:04 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://sszhe.github.io/categories/test/</link>
+      <pubDate>Fri, 29 Nov 2019 09:11:04 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>设计</title>
+      <link>https://sszhe.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Thu, 28 Nov 2019 15:43:48 +0800</pubDate>
+      
+      <guid>https://sszhe.github.io/categories/%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>docs</title>
@@ -17,15 +53,6 @@
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
       <guid>https://sszhe.github.io/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://sszhe.github.io/categories/index/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://sszhe.github.io/categories/index/</guid>
       <description></description>
     </item>
     
@@ -44,24 +71,6 @@
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://sszhe.github.io/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://sszhe.github.io/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://sszhe.github.io/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://sszhe.github.io/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://sszhe.github.io/categories/test/</guid>
       <description></description>
     </item>
     
